@@ -16,4 +16,7 @@ console.log(employee);
 console.log(employee.getage());
 console.log(employee.name);
 
+console.log(typeof(employee.name));
+
+
 
